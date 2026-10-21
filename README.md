@@ -115,7 +115,11 @@ By implementing and comparing variance-based selection, SelectKBest, Recursive F
 
 The exercise also reinforced the importance of experimentation, performance evaluation, and choosing an appropriate method based on the problem being solved.
 
----
+# Video Presentation
+
+This video presentation provides an overview of my learning and practical implementation of feature selection methods in machine learning.
+
+Watch the presentation: [https://drive.google.com/file/d/1IQ2pNvBf8X-Emr7xcN37vetWkpJ8r7FW/view?usp=drive_link]
 
 **Project Area:** Machine Learning
 **Topic:** Feature Selection Methods
